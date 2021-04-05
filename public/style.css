@@ -1,0 +1,30 @@
+*{
+    font-family: 'Kanit', sans-serif;
+}
+
+.navbar{
+    background-color: rgb(5, 40, 98)!important;
+}
+.ge-bar__roundel{
+    border-radius: 50%;
+    height: 140px;
+    width: 140px;
+    -webkit-flex-shrink: 0;
+    flex-shrink: 0;
+}
+.bg-color--R{
+    background-color: #cc0a11;
+}
+.bg-color--B{
+    background-color: #25428f;
+}
+.Logo_img{
+    width: 15%;
+    padding-left : 20px;
+    margin-left: 10%;
+}
+.topcontent{
+    font-weight: 500;
+    color: black;
+    font-size: 22px;
+}
